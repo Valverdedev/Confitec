@@ -1,0 +1,11 @@
+D:\SysEa\DesafioConfitec\Domain-shared\bin\Debug\net7.0\Domain-shared.deps.json
+D:\SysEa\DesafioConfitec\Domain-shared\bin\Debug\net7.0\Domain-shared.dll
+D:\SysEa\DesafioConfitec\Domain-shared\bin\Debug\net7.0\Domain-shared.pdb
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.AssemblyInfoInputs.cache
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.AssemblyInfo.cs
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.csproj.CoreCompileInputs.cache
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.dll
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\refint\Domain-shared.dll
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\Domain-shared.pdb
+D:\SysEa\DesafioConfitec\Domain-shared\obj\Debug\net7.0\ref\Domain-shared.dll
